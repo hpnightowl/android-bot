@@ -1,4 +1,4 @@
 requests
-python-telegram-bot==20.7
-google-generativeai
 feedparser
+python-telegram-bot==20.7
+google-generativeai>=0.8.0
